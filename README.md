@@ -1,4 +1,4 @@
-# QA-BOT 🤖
+# RAG QA BOT 🤖
 
 A full-stack Question Answering Bot built with **Node.js/Express** (backend) and **React + Vite** (frontend).  
 The bot can process documents and provide intelligent answers using RAG (Retrieval Augmented Generation).
