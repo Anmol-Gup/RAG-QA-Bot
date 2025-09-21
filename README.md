@@ -82,6 +82,6 @@ Frontend runs on http://localhost:5173
 - Environment-based configuration
 
 ### 🛠️ Tech Stack
-- Backend: Node.js, Express, MongoDB
+- Backend: Node.js, Express
 - Frontend: React, Vite, Tailwind CSS
-- AI: LangChain, Gemini
+- AI: LangChain, Gemini, Claude.ai
